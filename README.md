@@ -1,0 +1,2 @@
+# lablar
+Bilgisayar dersi lablar
